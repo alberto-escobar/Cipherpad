@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CipherPad</string>
+    <string name="app_version">V1.0, Orange Shiba, 2021</string>
+    <string name="add_note">Add Note</string>
+    <string name="encrypt_decrypt_text">Encrypt/Decrypt text</string>
+    <string name="share_note">Share note</string>
+    <string name="copy_note_to_clipboard">Copy note to clipboard</string>
+    <string name="import_note">Import Note</string>
+    <string name="reset_cipher_key">Reset cipher key</string>
+    <string name="export_note">Export note</string>
+    <string name="hint">" "</string>
+    <string name="example_text">Example text</string>
+</resources>
